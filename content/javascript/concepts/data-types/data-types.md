@@ -30,7 +30,7 @@ JavaScript uses seven primitive data types that are listed in the table below:
 | `undefined` | None                                                                            | This data type is denoted by the keyword `undefined`. It also represents the absence of a value though it has a different use than `null`. |
 | `symbol`    | `Symbol`                                                                        | A newer feature to the language, symbols are unique identifiers, useful in more complex coding. No need to worry about these for now.      |
 
-## Objects
+## Objectss
 
 [Objects](https://www.codecademy.com/resources/docs/javascript/objects) are a little more complex since they are collections of related data.
 
